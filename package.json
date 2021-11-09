@@ -5,7 +5,7 @@
   "main": "index.js",
  "scripts": {
    "test": "/cypress/integration/examples/Tests/cypressTest1.Js",
-   "start": "node electron"
+   "start": "node /cypress/plugins/index.js"
 },
   "keywords": [
     "CPSATMN"

@@ -6,7 +6,7 @@
  "scripts": {
    "test": "/cypress/integration/examples/Tests/cypressTest1.Js",
    "start": "node electron"
-}
+},
   "keywords": [
     "CPSATMN"
   ],

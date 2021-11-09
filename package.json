@@ -4,7 +4,7 @@
   "description": "UI testing with cypress",
   "main": "index.js",
  "scripts": {
-    "start": "node"
+    "start": "node /cypress/integration/examples/Tests/cypressTest1.Js"
 }
   "keywords": [
     "CPSATMN"

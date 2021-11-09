@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "UI testing with cypress",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+ "scripts": {
+   "test": "npx cypress run \Cypress_trial\cypress\integration\examples\Tests\cypressTest1.Js",
+   "start": "node /cypress/plugins/index.js"
+},
   "keywords": [
     "CPSATMN"
   ],

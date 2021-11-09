@@ -4,7 +4,7 @@
   "description": "UI testing with cypress",
   "main": "index.js",
  "scripts": {
-   "test": "//cypress//integration//examples//Tests//cypressTest1.Js",
+   "test": "./node_modules/.bin/cypress run",
    "start": "node /cypress/plugins/index.js"
 },
   "keywords": [

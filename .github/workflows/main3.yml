@@ -29,6 +29,5 @@ jobs:
       - name: Run a multi-line script
         run: |
          npm install
-         npm start
          npm run test
         

@@ -4,7 +4,8 @@
   "description": "UI testing with cypress",
   "main": "index.js",
  "scripts": {
-    "start": "node run /cypress/integration/examples/Tests/cypressTest1.Js"
+   "test": "echo \"Error: no test specified\" && exit 1",
+   "start": "node index.js"
 }
   "keywords": [
     "CPSATMN"
